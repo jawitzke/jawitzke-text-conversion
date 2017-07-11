@@ -903,14 +903,14 @@ his own Country.
 #THE FOSTER-MOTHER'S TALE, A DRAMATIC FRAGMENT.
 
 
-    FOSTER-MOTHER.
+    *FOSTER-MOTHER.*
     I never saw the man whom you describe.
 
-    MARIA.
+    *MARIA.*
     'Tis strange! he spake of you familiarly
     As mine and Albert's common Foster-mother.
 
-    FOSTER-MOTHER.
+    *FOSTER-MOTHER.*
     Now blessings on the man, whoe'er he be,
     That joined your names with mine! O my sweet lady,
     As often as I think of those dear times
@@ -920,21 +920,21 @@ his own Country.
     In gentle phrase, then bid me sing to you--
     'Tis more like heaven to come than what _has_ been.
 
-    MARIA.
+    *MARIA.*
     O my dear Mother! this strange man has left me
     Troubled with wilder fancies, than the moon
     Breeds in the love-sick maid who gazes at it,
     Till lost in inward vision, with wet eye
     She gazes idly!--But that entrance, Mother!
 
-    FOSTER-MOTHER.
+    *FOSTER-MOTHER.*
     Can no one hear? It is a perilous tale!
 
-    MARIA.
+    *MARIA.*
     No one.
 
-    FOSTER-MOTHER
-            My husband's father told it me,
+    *FOSTER-MOTHER*
+    My husband's father told it me,
     Poor old Leoni!--Angels rest his soul!
     He was a woodman, and could fell and saw
     With lusty arm. You know that huge round beam
@@ -986,14 +986,14 @@ his own Country.
     He made that cunning entrance I described:
     And the young man escaped.
 
-    MARIA.
-                               'Tis a sweet tale:
+    *MARIA.*
+    'Tis a sweet tale:
     Such as would lull a listening child to sleep,
     His rosy face besoiled with unwiped tears.--
     And what became of him?
 
-    FOSTER-MOTHER.
-                            He went on ship-board
+    *FOSTER-MOTHER.*
+    He went on ship-board
     With those bold voyagers, who made discovery
     Of golden lands. Leoni's younger brother
     Went likewise, and when he returned to Spain,
