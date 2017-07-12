@@ -18,15 +18,12 @@ with this eBook or online at www.gutenberg.net
 *Language: English*
 
 
-**START OF THIS PROJECT GUTENBERG EBOOK LYRICAL BALLADS 1798**
+[**START OF THIS PROJECT GUTENBERG EBOOK LYRICAL BALLADS 1798**](https://www.gutenberg.org/ebooks/9622)
 
 
 
 
 ####Produced by Jonathan Ingram and PG Distributed Proofreaders
-
-
-
 
 
 
@@ -47,7 +44,7 @@ with this eBook or online at www.gutenberg.net
 >CONTENTS.
 
 
->>1.The Rime of the Ancyent Marinere
+>>1.[The Rime of the Ancyent Marinere](http://www.shmoop.com/rime-of-ancient-mariner/)
 >>
 >>2.The Foster-Mother's Tale
 
@@ -55,6 +52,7 @@ with this eBook or online at www.gutenberg.net
 #THE RIME OF THE ANCYENT MARINERE,
 ##IN SEVEN PARTS.
 
+![alt text](https://bearskinblog.files.wordpress.com/2015/05/rime-1.jpg)
 
 ###ARGUMENT.
 
